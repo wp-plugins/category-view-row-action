@@ -1,6 +1,6 @@
 === Category View Row Action ===
 Contributors: aizatto
-Author: Ezwan Aizat Bin ABdullah Faiz
+Author: Ezwan Aizat Bin Abdullah Faiz
 Tags: category, categories, tag, tags, taxonomy, taxonomies, row action
 Requires at least: 2.9
 Tested up to: 3
